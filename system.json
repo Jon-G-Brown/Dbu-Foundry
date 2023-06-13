@@ -1,11 +1,14 @@
 {
-	"name": "DBU",
-	"ttitle": "Dragon Ball Universe Unofficial",
+	"id": "DBU-Foundry",
+	"title": "Dragon Ball Universe Unofficial",
 	"description": "An Unofficial conversion of dragon ball universe to Foundry, DBU Website:https://dbu-rpg.com. My Email:jongbrown.it@gmail.com my discord:Pete_Da_Rock#0042",
 	"author": "Pete_Da_Rock",
 	"version": "0.01",
-	"minimumCoreVersion": "4.1.0",
-	"compatableCoreVersion": "4.1.0",
+	"compatibility": {
+		"minimum": 10,
+		"verified": "10.291"
+	}
+}
 	"esmodules":[
 		"DBU.js"
 	],
